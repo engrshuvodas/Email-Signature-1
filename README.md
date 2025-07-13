@@ -26,7 +26,7 @@ Email-Signature-1/
 <hr>
 
 <h2>📸 Preview</h2>
-<p><img src="preview.png" alt="Email Signature Preview" width="600"/></p>
+<p><img src="./boldpersona-preview.png" alt="Email Signature Preview" width="600"/></p>
 
 <hr>
 
